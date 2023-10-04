@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luizf\\OneDrive\\Área de Trabalho\\estudoDotNet\\estudoDotNet.csproj": {}
+    "C:\\Users\\luizf\\OneDrive\\Área de Trabalho\\estudoDotNet\\estudoDotNet\\estudoDotNet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luizf\\OneDrive\\Área de Trabalho\\estudoDotNet\\estudoDotNet.csproj": {
+    "C:\\Users\\luizf\\OneDrive\\Área de Trabalho\\estudoDotNet\\estudoDotNet\\estudoDotNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luizf\\OneDrive\\Área de Trabalho\\estudoDotNet\\estudoDotNet.csproj",
+        "projectUniqueName": "C:\\Users\\luizf\\OneDrive\\Área de Trabalho\\estudoDotNet\\estudoDotNet\\estudoDotNet.csproj",
         "projectName": "estudoDotNet",
-        "projectPath": "C:\\Users\\luizf\\OneDrive\\Área de Trabalho\\estudoDotNet\\estudoDotNet.csproj",
+        "projectPath": "C:\\Users\\luizf\\OneDrive\\Área de Trabalho\\estudoDotNet\\estudoDotNet\\estudoDotNet.csproj",
         "packagesPath": "C:\\Users\\luizf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luizf\\OneDrive\\Área de Trabalho\\estudoDotNet\\obj\\",
+        "outputPath": "C:\\Users\\luizf\\OneDrive\\Área de Trabalho\\estudoDotNet\\estudoDotNet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luizf\\AppData\\Roaming\\NuGet\\NuGet.Config"

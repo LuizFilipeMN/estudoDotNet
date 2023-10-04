@@ -12,3 +12,17 @@ C:\Users\luizf\OneDrive\Área de Trabalho\estudoDotNet\obj\Debug\net7.0\refint\e
 C:\Users\luizf\OneDrive\Área de Trabalho\estudoDotNet\obj\Debug\net7.0\estudoDotNet.pdb
 C:\Users\luizf\OneDrive\Área de Trabalho\estudoDotNet\obj\Debug\net7.0\estudoDotNet.genruntimeconfig.cache
 C:\Users\luizf\OneDrive\Área de Trabalho\estudoDotNet\obj\Debug\net7.0\ref\estudoDotNet.dll
+C:\Users\luizf\OneDrive\Área de Trabalho\estudoDotNet\estudoDotNet\bin\Debug\net7.0\estudoDotNet.exe
+C:\Users\luizf\OneDrive\Área de Trabalho\estudoDotNet\estudoDotNet\bin\Debug\net7.0\estudoDotNet.deps.json
+C:\Users\luizf\OneDrive\Área de Trabalho\estudoDotNet\estudoDotNet\bin\Debug\net7.0\estudoDotNet.runtimeconfig.json
+C:\Users\luizf\OneDrive\Área de Trabalho\estudoDotNet\estudoDotNet\bin\Debug\net7.0\estudoDotNet.dll
+C:\Users\luizf\OneDrive\Área de Trabalho\estudoDotNet\estudoDotNet\bin\Debug\net7.0\estudoDotNet.pdb
+C:\Users\luizf\OneDrive\Área de Trabalho\estudoDotNet\estudoDotNet\obj\Debug\net7.0\estudoDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizf\OneDrive\Área de Trabalho\estudoDotNet\estudoDotNet\obj\Debug\net7.0\estudoDotNet.AssemblyInfoInputs.cache
+C:\Users\luizf\OneDrive\Área de Trabalho\estudoDotNet\estudoDotNet\obj\Debug\net7.0\estudoDotNet.AssemblyInfo.cs
+C:\Users\luizf\OneDrive\Área de Trabalho\estudoDotNet\estudoDotNet\obj\Debug\net7.0\estudoDotNet.csproj.CoreCompileInputs.cache
+C:\Users\luizf\OneDrive\Área de Trabalho\estudoDotNet\estudoDotNet\obj\Debug\net7.0\estudoDotNet.dll
+C:\Users\luizf\OneDrive\Área de Trabalho\estudoDotNet\estudoDotNet\obj\Debug\net7.0\refint\estudoDotNet.dll
+C:\Users\luizf\OneDrive\Área de Trabalho\estudoDotNet\estudoDotNet\obj\Debug\net7.0\estudoDotNet.pdb
+C:\Users\luizf\OneDrive\Área de Trabalho\estudoDotNet\estudoDotNet\obj\Debug\net7.0\estudoDotNet.genruntimeconfig.cache
+C:\Users\luizf\OneDrive\Área de Trabalho\estudoDotNet\estudoDotNet\obj\Debug\net7.0\ref\estudoDotNet.dll
